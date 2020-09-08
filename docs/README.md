@@ -1,6 +1,6 @@
 # 译者的话
 
-[![GitHub stars](https://img.shields.io/github/stars/lingcoder/OnJava8.svg?style=social&label=Star&)](https://github.com/lingcoder/OnJava8/stargazers)[![GitHub forks](https://img.shields.io/github/forks/lingcoder/OnJava8.svg?style=social&label=Fork&)](https://github.com/lingcoder/OnJava8/fork)
+[![GitHub stars](https://img.shields.io/github/stars/veizp/OnJava8.svg?style=social&label=Star&)](https://github.com/veizp/OnJava8/stargazers)[![GitHub forks](https://img.shields.io/github/forks/veizp/OnJava8.svg?style=social&label=Fork&)](https://github.com/veizp/OnJava8/fork)
 
 本翻译项目的 GITHUB 开源地址：[https://github.com/LingCoder/OnJava8](https://github.com/LingCoder/OnJava8)
 
@@ -44,6 +44,6 @@ Effective Java 第 3 版： https://github.com/sjsdfg/effective-java-3rd-chinese
 
 ## 联系方式
 
-- E-mail : <lingcoder@gmail.com>
+- E-mail : <veizp@gmail.com>
 
 <div style="page-break-after: always;"></div>

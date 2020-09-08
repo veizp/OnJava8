@@ -8,11 +8,11 @@
 
 ## 传送门
 
-- 目录阅读：[进入](https://github.com/LingCoder/OnJava8/blob/master/SUMMARY.md)
+- 目录阅读：[进入](https://github.com/veizp/OnJava8/blob/master/SUMMARY.md)
 
-- GitHub Pages 完整阅读：[进入](https://lingcoder.github.io/OnJava8/)
+- GitHub Pages 完整阅读：[进入](https://veizp.github.io/OnJava8/)
 
-- Gitee Pages 完整阅读：[进入](https://lingcoder.gitee.io/onjava8/)
+- Gitee Pages 完整阅读：[进入](https://veizp.gitee.io/onjava8/)
 
 ## 翻译进度
 
@@ -125,4 +125,4 @@
 
 ## 联系方式
 
-- E-mail : <lingcoder@gmail.com>
+- E-mail : <veizp@gmail.com>
